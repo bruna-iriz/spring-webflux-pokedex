@@ -2,7 +2,7 @@
   🚀 Pokedex
 </h1>
 
-# Construindo RESTAPI Reativa com Spring Webflux
+# Construindo uma API REST Reativa com Spring Webflux
 
 ## 💻 Projeto
 
