@@ -13,8 +13,6 @@ Foi apresentado os conceitos de reatividade e demonstrada a criação de uma Res
 O objetivo é cadastrar uma lista de Pokémons mostrando as vantagens do webflux e a otimização do tempo de esforço. 
 Neste simples cenário é apresentando algumas características da programação reativa e o uso de Mono, Flux, Event Stream entre outras propriedades. 
 
-
-Assíncrono, Flux
 ---
 
 ## 💻 Tecnologias
