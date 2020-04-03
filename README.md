@@ -6,7 +6,7 @@
 
 ## 💻 Projeto
 
-O Pokedex é um projeto desenvolvido a partir da live code realizada pela Software Engineer [Ana Beatriz](.https://github.com/anabneri). 
+O Pokedex é um projeto desenvolvido a partir da live code realizada pela Software Engineer [Ana Beatriz](https://github.com/anabneri). 
 Foi apresentado os conceitos de reatividade e demonstrada a criação de uma Rest API reativa e seus parâmetros funcionais para criações de endpoint.
 
 
